@@ -1,6 +1,8 @@
-# Homework 1
+# Homework 2
 * Ülesanded leiad assigment.cpp failides.
 ## Topics
-* Initialization
-* Assignment
-* Arithmetics
+* Pointers
+* References
+* Const
+* Functions
+
