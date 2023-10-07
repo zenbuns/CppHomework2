@@ -1,0 +1,8 @@
+#ignore build and exe files
+build
+.vscode
+*.exe
+*.o
+*.out
+*.obj
+*.dll
